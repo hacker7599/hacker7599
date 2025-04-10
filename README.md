@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hacker7599
-- 👀 I’m interested in Developing Stuffs that were used to be dreams
-- 🌱 I’m currently learning AI and Messing up with LLMs
-- 💞️ I’m looking to collaborate on any project that can pitch my knowledge
-- 📫 How to reach me ...
+- 👋 Hi, I’m @hacker7599.
 
 <!---
 hacker7599/hacker7599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
